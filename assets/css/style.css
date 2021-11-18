@@ -13,7 +13,7 @@ a {
   color: var(--text-color);
 }
 a:hover {
-  color: #f0f4f5;
+  color: #000;
 }
 li {
   list-style: none;
